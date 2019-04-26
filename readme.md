@@ -6,5 +6,11 @@ Data collected from web
 
 This repository contains data collected from various websites.
 
-Take a look at meta.csv to know the information about the web sources form where the data is collected.
+## Datasets
 
+| File                    | Description           | Source |
+| -------------           |:-------------:| -----|
+| airports.csv            | Basic information about all the airports in world | https://airport-authority.com |
+| fifa18players.csv       | Fifa 18 players rating      |   https://sofifa.com/players |
+| companiestechstack.json | Companies technology stack for various purpose      |    https://stackshare.io/stacks |
+| nepal_earthquake.csv | Earthquake and Aftershocks in Nepal since 1994      |    http://seismonepal.gov.np/earthquakes | 
